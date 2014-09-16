@@ -1,0 +1,4 @@
+hive:
+  hive_password: "your password for hive metastore mysql backend"
+  hadoop_fs: "hdfs://master:8020/"
+  host_ip: 127.0.0.1
